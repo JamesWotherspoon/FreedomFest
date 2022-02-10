@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplify19efc13816134-staging-111935-authRole",
+      "UnauthRoleArn": "arn:aws:iam::830182711562:role/amplify-amplify19efc13816134-staging-111935-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::830182711562:role/amplify-amplify19efc13816134-staging-111935-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-amplify19efc13816134-staging-111935-deployment",
+      "UnauthRoleName": "amplify-amplify19efc13816134-staging-111935-unauthRole",
+      "StackName": "amplify-amplify19efc13816134-staging-111935",
+      "StackId": "arn:aws:cloudformation:eu-west-2:830182711562:stack/amplify-amplify19efc13816134-staging-111935/544583c0-8a63-11ec-ab52-0200269dc8c6",
+      "AmplifyAppId": "drt3pvsusfvbb"
+    },
+    "categories": {
+      "auth": {
+        "freedomfestae47a009": {}
+      }
+    }
+  }
+}
